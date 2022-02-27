@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The eating of blood vindicated: in a briefe answer to a late pamphlet, intiutled, A bloody tenent confuted.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82451</idno>
+            <idno type="STC">Wing E111</idno>
+            <idno type="STC">Thomason E506_16</idno>
+            <idno type="STC">ESTC R205583</idno>
+            <idno type="EEBO-CITATION">99864925</idno>
+            <idno type="PROQUEST">99864925</idno>
+            <idno type="VID">164273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 80:E506[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The eating of blood vindicated: in a briefe answer to a late pamphlet, intiutled, A bloody tenent confuted.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Shepheard, at the Bible in Tower-Street, and W. Ley, at Pauls Chaine, near Doctors Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march: 9th"; the 6 in imprint date crossed out and date altered to 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bloody tenent confuted.</term>
+               <term>Blood --  Religious aspects --  Early works to 1800.</term>
+               <term>Diet --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164273:1" rendition="simple:additions"/>
+            <p>THE Eating of blood vindicated: IN A briefe Anſwer to a late Pamphlet, INTITULED, A Bloody Tenent confuted.</p>
+            <q>
+               <bibl>Mark. 7. 15.</bibl>
+               <p>There is nothing from without a man that entring into him, can defile him: but the things which come out of him, thoſe are they that defile the man.</p>
+            </q>
+            <q>
+               <bibl>Rom. 14. 17.</bibl>
+               <p>For the Kingdome of God is not meat and drinke, but Righte<g ref="char:EOLhyphen"/>ouſneſſe, and Peace, and Joy, in the Holy Ghoſt.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Shepheard,</hi> at the Bible in Tower-Street, and <hi>W. Ley,</hi> at PAULS Chaine, near Doctors Commons. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:164273:2"/>
+            <head>A juſt Defence of Chriſtian Libertie, in eating things that are ſtrangled.</head>
+            <p n="1">
+               <seg rend="decorInit">F</seg>Irſt, if nothing that enters into the mouth can defile a man, then blood in things ſtrangled or otherwiſe made into wholſome food for us cannot; but faith Chriſt Jeſus, <hi>that which goes into the mouth cannot defile a man, Mark. 7. 15. Ergo,</hi> blood in things ſtrangled or otherwiſe made into wholſome food for us cannot, neither is it blood ſtill when the fire hath purged and changed the propertie of it.</p>
+            <p n="2">Secondly, if Chriſtians may lawfully eat whatſoever meat is ſold at the Sham<g ref="char:EOLhyphen"/>bles, <hi>asking no qu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtion for conſcience ſake,</hi> then they may eat blood in rabbets or fouls that are ſtrangled, or the blood of ſome beaſts, being made into good and wholſome food; for all theſe are to be ſold unto Chriſtians: but Chriſtians may eat whatſoe<g ref="char:EOLhyphen"/>ver meat is ſold at the Shambles, <hi>asking no queſtion for conſcience ſake, 1 Cor. 20. 25. Ergo,</hi> Chriſtians may eat blood in things that are ſtrangled, or otherwiſe, made in<g ref="char:EOLhyphen"/>to wholſome food.</p>
+            <p n="3">Thirdly, if Chriſtians may eat whatſover meat is ſet before them, <hi>asking no que<g ref="char:EOLhyphen"/>ſtion for conſcience ſake,</hi> then they may eat blood in things that are ſtrangled, or made into wholſome food, being frequently ſet before them: but Chriſtians may eat whatſoever is ſet before them, <hi>asking no queſtion for conſcience ſake, 1 Cor. 10. 2 Luk. 10 7, 8. Ergo,</hi> Chriſtians may eat blood in things that are ſtrangled, or made into wholſom food.</p>
+            <p n="4">Fourthly, if it be a Doctrine of Devills, ſuggeſted by ſeducing ſpirits, whoſe con<g ref="char:EOLhyphen"/>ſciences are ſeared with a hot iron, who ſpeake lies in hypocriſie, that command to abſtaine from meats, then we muſt not give heed to them: but they that would have us to abſtaine from meats are ſuch, 1 <hi>Tim.</hi> 4. 1, 2, 3, 4. then notwithſtanding ſuch doctrine we may lawfully eat bloud in things ſtrangled, or made into whol<g ref="char:EOLhyphen"/>ſome food.</p>
+            <p n="5">Fiftly, if everie creature of God is good, which ſeducers would have us to ab<g ref="char:EOLhyphen"/>ſtaine from, and not to be refuſed in caſe it be meat for man, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> both the fleſh and blood of the beaſts may be eaten, and not to be refuſed, being <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but thoſe creatures whom this ſeducer would have us to avoyd <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e good, and nothing to to be refuſed, in caſe it be recived with thankſgiving, for it <hi>is ſanctified by the Word, and Prayer, <g ref="char:V">Ʋ</g>erſ</hi> 3, 4, 5. then blood in things ſtrangled or otherwiſe may be eaten.</p>
+            <p n="6">Sixtly, if <hi>Paul</hi> ſay to <hi>Timothy, If thou put them in remembrance of theſe things,
+<pb n="3" facs="tcp:164273:2"/> thou ſhalt be a good Miniſter of Ieſus Chriſt, nouriſhed up in the words of Faith, and good Doctrine,</hi> then he that teacheth contrary is a bad Miniſter, and deſtroyes with bad Doctrine, in the ſame place, Verſ. 6. and ſaith Chriſt, <hi>they are blind leaders of the blind,</hi> that ſay, <hi>meat defiles a man, Mat.</hi> 15. 11, 14. then let us rather be nouri<g ref="char:EOLhyphen"/>ſhed by good Doctrine, then be deſtroyed by the falſe Doctrine of thoſe that ſay, ſome meat defiles us.</p>
+            <p n="7">Seventhly, if it was the prohibition of God that made ſome creatures uncleane, and not to be eaten while that prohibition laſted, then when that prohibition is taken off, that creatures is cleane unto them: but God hath taken off that prohibition to Chriſtians which was upon the Jewes, <hi>Act.</hi> 10. 10, 11, 12, 13. 14. then Chriſtians muſt not now call thoſe things uncleane, that were uncleane among the Jewes, becauſe God hath clenſed them: and although blood was not cleane to Jewes, yet now it is made clean to Chriſtians.</p>
+            <p n="8">Eightly, if it be a note of a weake faith to ſcruple at ſome meats, when as no meat is uncleane of it ſelfe, then we may not ſcruple at any: but ſaith <hi>Paul,</hi> he is we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that eateth herbs, when as nothing is uncleane of it ſelfe; but <hi>to him that eſteems it uncleane to him it is unclean, Rom.</hi> 14. 2, 14. then he that beleeveth that he may eat blood he may eat it, when as this ſeducer may be damned if he eat it, be<g ref="char:EOLhyphen"/>cauſe <hi>he eateth not of faith,</hi> Verſ. 22.</p>
+            <p n="9">Ninthly, if <hi>Paul</hi> blames it as a ſinne to judge others for eating thoſe things which themſelves have not faith to eat, then it is a ſinne in this man to judge others for eating blood, while he hath not faith to eat it, but <hi>Paul</hi> blames it as a ſinne in thoſe that do ſo, <hi>Rom.</hi> 14. 3. then they ought not to judge us, leſt themſelves be judged for it, <hi>Mat.</hi> 7. 1.</p>
+            <p n="10">Tenthly, if blood being the life of the beaſt was onely forbidden before the death of Chriſt, to make an atonement, tippifying the blood of Chriſt that was to be ſhed to make atonement, and then the end ceaſed for which it was forbidden, then Chri<g ref="char:EOLhyphen"/>ſtians may now eat blood; but the blood of beaſts was forbidden to make atone<g ref="char:EOLhyphen"/>ment for the ſoule, <hi>Levit.</hi> 15. 11, 12. but Chriſt hath put an end to all bloody ſa<g ref="char:EOLhyphen"/>crifices in ſpilling his owne blood to make atonement, <hi>Heb.</hi> 10. 12, 14. then Chriſti<g ref="char:EOLhyphen"/>ans may now eat blood.</p>
+            <p n="11">Eleventhly, if the burnt offering which was a type of Chriſt, the fleſh of it was burnt, and the blood was ſprinkled about the Altar at the Tabernacle door, and now ſince the death of Chriſt he commands the type of his fleſh to be eaten, and the type of his bloud to be drunk in the remembrance of his death, till his coming againe; then now we may not burne the type of his fleſh, nor ſpill the type of his blood, leſt we commit that unpardonable ſin. of crucifying the Son of God afreſh, and <hi>trampling the blood of the Covenant under feet, Heb.</hi> 10. 29. but in the burnt of<g ref="char:EOLhyphen"/>fering, which was the type of Chriſt, the fleſh was burnt, and the blood ſprinkled <hi>Levit.</hi> 1. and now ſince his death, except we eat the fleſh of the Son of God and drink his blood, we have no life in us; for his fleſh is meat indeed, and his blood
+<pb n="4" facs="tcp:164273:3"/> is drinke indeed, <hi>He that eateth his fleſh, and drinketh his blood, hath eternall life<g ref="char:punc">▪</g> Joh.</hi> 6. 53, 54, 55. although this I grant to be ſpiritually by faith, yet the type of his body and bloud we muſt now eat and drink, which before his death was to be burnt and ſpilt, and not eaten nor drunk; then the blood which before was forbid<g ref="char:EOLhyphen"/>den to Jewes may lawfully be eaten by Chriſtians.</p>
+            <p>But this man hath ſome Scriptures to prove it unlawfull for Chriſtians to eat blood, ſuch as theſe: <hi>Levit.</hi> 7. 26 where it is ſaid, <hi>You ſhall eat no manner of blood, whether of foule or beaſt in all your dwellings, for what ſoule ſoever it be that eateth a<g ref="char:EOLhyphen"/>ny manner of blood, that ſoul ſhall be cut off from his people. Therefore I ſaid unto the children of Iſrael, that no ſoule of you ſhall eat blood, nor any that ſo journe among you ſhall eat blood, they ſhall powre out the blood, and cover it with duſt. Levit. 17. 10, 11, 12, 13 14. You ſhall not eat the blood, ye ſhall powre it upon the earth as water, the blood is the life, and thou mayeſt not eat the life with the fleſh; thou ſhalt powre it out upon the earth as water, thou ſhalt not eat it, that it may go well with thee and thy children after thee, when thou ſhalt do that which is right in the ſight of the Lord, Deut.</hi> 12. 16 23<g ref="char:punc">▪</g> 24, 25. I anſwer, all theſe precepts are confined to Iſrael, and their Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſelites, that are in their dwellings, and all the promiſes in caſe they obey, and do that which is right in the ſight of the Lord, and all the pennalties in caſe of diſo<g ref="char:EOLhyphen"/>bedience, are only to Iſrael and to their Proſſelites that are in their dwellings; ſee all thoſe Scriptures mentioned by him, then this is not blinding to Chriſtians, for all theſe Ceremonies are voyd to Chriſtians, then he would prove that Chriſtians now are forbidden to eat blood, becauſe <hi>Noah</hi> the Father both of Jewes and Gentiles had this Law given him and his poſteritie, <hi>Gen.</hi> 9<g ref="char:punc">▪</g> 4 and all the world is his poſterity, and by this law are forbidden to eat blood: and ſaith he, the Ceremoniall Law was given only to Jewes and their Proſſelites, but this Law of prohibiting blood was gi<g ref="char:EOLhyphen"/>ven to the Gentiles in their father <hi>Noah,</hi> therefore it is no part of the Ceremoniall Law.</p>
+            <p>I anſwer, by this arguing the ſacrifices of the Jewes were not Ceremoniall but Morall, becauſe they were long before<g ref="char:punc">▪</g> the ceremoniall law was given, even from <hi>Caine</hi> and <hi>Abell,</hi> and alſo from <hi>Noah,</hi> the father to thoſe Jewes and Gentiles, <hi>Er<g ref="char:EOLhyphen"/>go,</hi> wee that are the poſterity of <hi>Noah,</hi> muſt now offer beaſts in ſacrifice, becauſe <hi>Abell</hi> and <hi>Noah</hi> did, the father of the Gentiles, but Chriſt our <hi>Meſſias</hi> hath put an end to all bloody ſacrifices, by that laſt and great ſacrifice of himſelfe, unleſſe wee ſhould looke for another Saviour, and uphold the Jewiſh Ceremonies, till he comes to free us of thoſe beggerly elements, <hi>Gal.</hi> 4 9. for they were Jewiſh ceremonies, al<g ref="char:EOLhyphen"/>though they were in uſe long before the Jewiſh Nation was in being, and Chriſt was that <hi>Lamb ſlaine from the beginning of the world, Revel.</hi> 13. 8. for ſuppoſe <hi>Abell</hi> had offered a dog or a ſwine in ſacrifice to the Lord, would it have beene accepted, no it would have been abominable to him, <hi>Iſa.</hi> 66. 3. then from the beginning God made them know which beaſts were eſteemed of him as clean and which uncleane for ſacrifice, for the Lord ſaid to <hi>Noah</hi> before the flood, <hi>take the cleane beaſts into<g ref="char:punc">▪</g>
+                  <pb n="5" facs="tcp:164273:3"/> the Ark by ſevens, and he did ſo:</hi> then it is plaine we know them, <hi>Gen.</hi> 7. 2. although neither fleſh nor blood was then to be eaten; yea, <hi>Abells</hi> lamb ſignified Chriſt the Lamb of God to his faith to take way his ſinnes, aſwell as the Jewiſh ſacrifices did, although he had this Ordinance but by tradition from his Predeceſſors, when as the Jewes had this in a written law for their owne Nation, yet all this ended at the ſacrifice of Chriſt, then I ſay, all thoſe ſhaddowes of Chriſt ſeaſed, <hi>Heb.</hi> 10. 1, 13, 14. and I have ſhewed blood was forbidden to be eaten, becauſe it was to make an atonement for ſoules, <hi>Levit.</hi> 17. 11. and the blood of <hi>Abells</hi> lamb did ſig<g ref="char:EOLhyphen"/>nifie the blood of Chriſt that was to make an atonement for ſin unto his faith, and how Chriſt ſhould redeem us to God by his blood, and waſh away our ſins in his blood, <hi>Revel.</hi> 1. 3, 4, 5. and 9. <hi>Heb.</hi> 9. 14, 19, 20, 21. 22. and the blood of beaſts was powred upon the ground, to ſhew how the blood of Chriſt was to be ſpilt for our ſins, and if any had gone about to ſave the blood of the lamb that was the type of Chriſts blood, it was all one as if he had ſaved the blood of Chriſt f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om being ſhed for our ſins: but when <hi>Peter</hi> made the leaſt motion to keep the blood of Chriſt from being ſhed, ſaying, <hi>this ſhall not be unto thee,</hi> that Chriſt turned him about in a rage ſaying, <hi>get thee behind me Satan, thou ſavoureſt not the things that be of God, Mat.</hi> 16. 22, 23, &amp; when he ſtruck at thoſe that came to apprehend Chriſt, he had him put up his ſword, <hi>for they that ſmite with the ſword ſhall periſh with the ſword, Mat.</hi> 26. 52. but when all was finiſhed, he took the cup and gave thanks, and gave it to them ſaying, <hi>drinke ye all of it, for this is my blood o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the New Teſtament which was ſhed for many for the remiſſion of ſins, Mat.</hi> 26. 27, 28. ſo then although the Sacrament of the blood of Chriſt before his death was to be ſpilt on the ground, yet now they<g ref="char:punc">▪</g> muſt drink it, and it were part of that unpardonable ſin, now to ſpill the blood of the Covenant under feet, <hi>Heb.</hi> 10. 29. although it was to be ſpilt and ſprinkled up<g ref="char:EOLhyphen"/>on the ground before his death.</p>
+            <p>But then he will prove this Law of prohibiting bloud to be eaten to be Morall, his reaſon is, becauſe bloud is the life of the beaſt, and it is extreame crueltie to eat the bloud when the beaſt is dead, which was the life of it when it was living; a cruell thing to eat life it ſelfe: Therefore it is forbidden, and not becauſe it is an uncleane thing, and forbidden by the Ceremoniall Law; but as a cruell thing forbidden by the Morall Law: Therefore he concludes, it is not Ceremoniall, but Morall; but here I would know of him, whether the ſeventh Commandement which forbids unclean<g ref="char:EOLhyphen"/>neſſe, be not as Morall as the ſixth, that forbids crueltie. Againe, is a thing firſt un<g ref="char:EOLhyphen"/>cleane, and then forbidden of God, or whether is it not firſt forbidden of God, and ſo becomes uncleane? It was Gods prohibition that made bloud to be uncleane to <hi>Noah</hi> and his poſteritie, and to the Jewiſh Nation, being the viſible Church of God; and for this man to ſay Gods prohibition did not put uncleanneſſe upon the things<g ref="char:punc">▪</g> prohibited, is to put uncleanneſſe upon the holy Law of God, and in ſtead of c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſting<g ref="char:punc">▪</g> the uncleane bloud as water upon the ground, this man caſts this holy Law of God under feet as an uncleane thing.</p>
+            <pb n="6" facs="tcp:164273:4"/>
+            <p>But he ſaith, it is more crueltie to the beaſt, to eat the bloud after the beaſt is dead, than it is to kill it when it was alive; becauſe (ſaith he) it is more inhumane to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fleſh of a dead man, or to kick it up and downe the ſtreets, though the dead body feele no paine, than it is to kill a man by hanging him, in caſe the Law hath cond<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ned him, although he put him to paine, and not the other: So ſaith hee, It is a greater ſigne of crueltie to eat the bloud of the beaſt after it is dead, than to kill a beaſt for food, by Gods permiſſion being delivered into our hands. But I ſay againe, the prohibition is taken off which bound the Jewes from eating bloud, ſo that now the beaſt is wholly delivered into our hands for food, as well the bloud as the fleſh. Againe, bloud is not life, it was only the ſeat of life, for if it were life, it would act and move as well out of the beaſt as in it, like the ſoule of man, but it cannot do ſo, then it is not life, though life was in it, <hi>Levit.</hi> 17. 11. and ſometimes too much blood will kill the beaſt, and muſt be let out to ſave his life. Then is it as great crueltie to eat the place where life was, as to deſtroy life by killing the beaſt. Againe, now the prohibition is taken off, who loves the bloud moſt, hee that eats it, or hee that <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ples it under his feet? In all wiſe mens judgement, he that eats it loves it moſt, and he that caſts it under feet to be trampled upon, ſhewes moſt hatred and crueltie a<g ref="char:EOLhyphen"/>gainſt it. Againe, is it true charitie to the lives of Chriſtians, that they ſhould <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther be deſtroyed than to eat bloud, being the place in which the life of the beaſt was? But the life of the beaſt is gone, and no more hurt can be done to it; but the life of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtian is ſtill in him, and may be refreſhed with that thing only: This mans cha<g ref="char:EOLhyphen"/>ritie is more to the bloud of a dead beaſt, than it is either to the life it ſelfe of man or beaſt. Much like the charitie of King <hi>Saul</hi> to <hi>Agag,</hi> and the beſt of the ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tell, that he would not ſlay them at Gods command, 1 <hi>Sam.</hi> 15: Or like <hi>Ahab,</hi> who would not ſlay <hi>Ammon</hi> at Gods command, ſaying, <hi>He is my brother, 1 King.</hi> 20. 32, 42. But curſed be that man that keeps his ſword from bloud when God commands it to be ſhed, <hi>Jer. 48. 10. Thy life ſhall go for his life.</hi> Yet I muſt confeſſe the Lord ſaid to <hi>Noah,</hi> He that eats the bloud of a beaſt, being the life of it, I will require that mans life at the hand of everie beaſt, <hi>Gen.</hi> 9. 4, 5. But the prohibition is taken off by Chriſt, who hath <hi>made them cleane that were not cleane, Acts</hi> 10. Againe, Is this prohibition morall, becauſe <hi>Noah</hi> was forbidden to eat bloud, <hi>Gen.</hi> 9. 4. I ſay, No: For in the ſame Text it is plaine, that from the beginning of the world it was not ſo; for till then the greene herb was their food, according as God had ſaid to <hi>Ad<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Gen.</hi> 1. 29, 30. and 9. 4. I ſay till the floud man did eat that which grew of it ſelfe, neither did beaſts prey one upon another, but went lovingly into the Ark: But after the floud it was permitted to men to eat the fleſh of ſome beaſts and fowles, but no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their bloud; ſo then this prohibition began but at <hi>Noah,</hi> and was to end at the death of Chriſt, then this Law was not Morall, we know both when it began, and when it ended. From <hi>Adam</hi> to <hi>Noah</hi> they were to eat what grew upon the ground, and from thence to the death of Chriſt they might eat ſome beaſts and fowls, but not the bloud; and from the death of Chriſt to the end of the world we muſt not call any thing unclean, for God hath cleanſed it, <hi>Acts</hi> 10.</p>
+            <pb n="7" facs="tcp:164273:4"/>
+            <p>But then he ſaith there is a Text in the New Teſtament, <hi>Acts</hi> 15. 28, 29. where it is ſaid, <hi>It ſeemed good to the Holy Ghoſt and to us, to lay upon you no other burden <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe neceſſarie things, that yee abſtaine from meats <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red to Idols, and from bloud, and from things ſtrangled, and from fornication, from which if you keep your ſelves, yee ſhall do well.</hi> Here (ſaith hee) you ſee that neither the Old nor New Te<g ref="char:EOLhyphen"/>ſtament can ſcarce mention the forbidding to eat bloud, but it annexeth a bleſſing to them that abſtaine, or a curſe to thoſe that practiſe it.</p>
+            <p>I anſwer: There was a great controverſie at Antioch between the Jewes and Chriſtians, the Jewes ſaid, <hi>Except yee be circumciſed after the manner of Moſes, yee cannot be ſaved:</hi> Hereupon they came to the Apoſtles and Elders at Jeruſalem about this queſtion, verſ. 1, 2. then <hi>James</hi> the Moderatour of the Synod ſaid, <hi>My ſentence is, that yee trouble not the Jewes which are among the Gentiles turned to the Lord; but if they will abſtain from pollutions of Idols, and from fornication, then we wil yeeld to them to be circumciſed after the manner of Moſes, &amp; according to Moſes Law let them abſtaine from things ſtrangled, and from bloud.</hi> Hereupon <hi>Paul</hi> took <hi>Timothy</hi> and circumciſed him, becauſe of the Jewes which were in thoſe quarters, <hi>Acts</hi> 16. 1, 3. And when the Apoſtles heard that <hi>Paul</hi> taught the J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes which were among the Gentiles, ſaying, that they muſt forſake <hi>Moſes,</hi> and that they ought not to be cir<g ref="char:EOLhyphen"/>cumciſed, nor to walk after their cuſtomes; they told him ſaying, We have conclu<g ref="char:EOLhyphen"/>ded that they obſerve no ſuch thing, as to ſay they muſt not be circumciſed, nor to walk after their cuſtomes, ſave only that they keep themſelves from things offered to Idols, and from fornication, and we will yeeld to them, to obſerve <hi>Moſes</hi> Law, in keeping themſelves from things ſtrangled, and from bloud. See <hi>Acts</hi> 21. 21, 25. where the Apoſtles tell <hi>Paul</hi> what they have done at the Synod at Jeruſalem, <hi>Acts</hi> 15. 25, 29. and 26. 4. Then the Apoſtles perſwaded <hi>Paul</hi> to go in with foure men that had a vow, and purifie himſelfe, and ſo he did, ſignifying the accompliſhment of the dayes of purification, untill that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n offering be offered for everie one of them, verſ. 23. 24, 26, 27. Thus unto the Jewes bee yeelded, to gaine the Jewes; ſo hee was two yeares at Epheſus, and never ſpake all that time againſt their <hi>Diana,</hi> that he might gaine them alſo to the Chriſtian faith, <hi>Acts</hi> 19. 10. So then the Apo<g ref="char:EOLhyphen"/>ſtles did <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare with them in ſome things, that they might the better perſwade them from fornication, and from things offered to Idols; but for any man to ſay, from this Text that bloud is<g ref="char:punc">▪</g> forbidden to the worlds end, they may as well ſay that Cir<g ref="char:EOLhyphen"/>cumciſion muſt yet r<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aine; for when <hi>Paul</hi> ſaid, that they ought not to circumciſe their children, the Apoſtles tell him, that they have written and concluded, that they obſerve no ſuch thing, <hi>Acts</hi> 21. 21, 25.</p>
+            <p>Then he ſaith, that we object ſaying, to bind them from things offered to Idols, and from bloud, are but indifferent things: Hereupon he inſults over it, ſaying, Ea<g ref="char:EOLhyphen"/>ting of bloud is againſt the Law of God, and is puniſhed with damnation, for it is joyned with fornication.</p>
+            <p>I anſwer: To abſtaine from bloud was then a thing indifferent, being between
+<pb n="8" facs="tcp:164273:5"/> the ending of the Old Teſtament, and the beginning of the New, but it was not ſo before nor afterwards: So alſo was Circumciſion before, if any Male was not cir<g ref="char:EOLhyphen"/>cumciſed, he was to be cut off from the people, for ſaith the Lord, <hi>Hee hath broken my Covenant, Gen.</hi> 17. 14. But when they would have circumciſed <hi>Titus,</hi> ſaith <hi>Paul, I would not give place by ſubjection, no not for an houre, Gal.</hi> 2. 3. 5. Yet hee conſented to the Apoſtles concluſion, though hee had preached againſt it, <hi>Acts</hi> 21. 21, 25. and he did circumciſe <hi>Timothy</hi> becauſe of the Jewes, <hi>Act.</hi> 16. 3. ſo the pro<g ref="char:EOLhyphen"/>hibition of blood was only at that inſtant a thing indifferent, for before the penalty was, to be cut off from Iſrael, <hi>Levit.</hi> 17. 10. but now ſince we muſt not ſay any thing is uncleane, for God hath clenſed it; <hi>Act.</hi> 10. 14, 15. and for him to ſay eat<g ref="char:EOLhyphen"/>ing blood is a ſin againſt the Morall Law, as fornication is, it is not true as hath beene proved, although it was given to <hi>Noah,</hi> and practiced before him, but it is not ſo now for the time limited is paſt.</p>
+            <p>Then he faith, that we obj<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct ſaying, we muſt not eat fleſh and bloud together, but aſunder; and he ſaith, it muſt be powred upon the ground, and covered with duſt, <hi>Levit.</hi> 17. 13. but I ſay that command was to Iſrael, and not to us, unleſſe hee can faſten all the Jewiſh ceremonies upon Chriſtians.</p>
+            <p>He ſaith we object, <hi>unto the pure all things are pure, Tit.</hi> 1. 15. and nothing is un<g ref="char:EOLhyphen"/>cleane of it ſelfe, but to him that eſteemes it ſo: <hi>Rom.</hi> 14. 14. but he ſaith, we are not ſo mad to thinke nothing unfit for food, or uncleane, as to<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, mans fleſh, ſtones and trees.</p>
+            <p>I anſwer, will it follow becauſe the prohibition is taken off, and ſo things that were uncleane are now cleane for food, that it muſt needs comprehend ſuch things as theſe.</p>
+            <p>He ſaith, we object, that everie creature of God is good, and nothing to be refu<g ref="char:EOLhyphen"/>ſed, 1 <hi>Tim.</hi> 4. 5. but he ſaith <hi>Paul</hi> muſt be underſtood of things not forbidden, <hi>ſo all things are lawfull, 1 Cor.</hi> 10. 23. he ſaith this doth not extend to things unwhol<g ref="char:EOLhyphen"/>ſome, or unlawfull for food, all this I grant, for blood is neither unclean, nor unlaw<g ref="char:EOLhyphen"/>full, ſince the prohibition was taken off, <hi>Act.</hi> 10 15. and how wholſome it is, thou<g ref="char:EOLhyphen"/>ſands can daily witneſſe.</p>
+            <p>He ſaith we object, this Law was Jewiſh, and not Morall, becauſe the Jewes were forbidden to eat any thing that died of it ſelfe, when as aliens and ſtrangers might eat it, <hi>Deut.</hi> 14. 21. to this he ſaith, ſtrangers and aliens might eat it; here he contradicts himſelfe, for he ſaid before, that none of the poſteritie of <hi>Noah</hi> ought to eat fleſh with the bloud; but the meaning of this Text is this, thoſe without the Church were without government, but neither the Jewiſh Church, nor the Church before the flood might do ſo, <hi>Gen.</hi> 9 3. then he grants it not uniawfull to eat ſome blood with the fleſh, but he ſhould have ſet downe his quantitie, or els we ſhall think it as lawfull to eat all as ſome. Thus he is moild in his owne Channell, and knowes not how to come clearly out of it, the meane time we may lawfully eat blood in things ſtrangled, or made into wholſome food for us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
